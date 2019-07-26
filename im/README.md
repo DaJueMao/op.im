@@ -25,10 +25,6 @@ IM 是一个基于 UDP socket + 多线程实现的聊天室(类似于 QQ 聊天�
 
 - UDP 可靠性保证、丢包重传、离线消息拉取
 
-- 线程池
-
-- 定时器(基于小根堆)
-
 ### demo
 
 ![](https://github.com/Apriluestc/img.org/blob/master/demo.png)
